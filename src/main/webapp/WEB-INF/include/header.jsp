@@ -29,7 +29,7 @@
 						<li><a href="joinMembership.jsp" class="top">회원가입</a></li>
 					</c:otherwise>
 				</c:choose>
-				<li><a href="home.jsp" class="top">게시판</a></li>
+				<li><a href="getBoardList.do" class="top">게시판</a></li>
 				<li><a href="home.jsp" class="top">즐겨찾기</a></li>
 			</ul>
 
